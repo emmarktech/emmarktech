@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&color=%2300FF00&size=24&center=true&vCenter=true&width=900&height=60&lines=Welcome+to+my+GitHub+Profile.;I'm+Simpler+Hacking.;Also+known+as+S.H.;I+founded+www.SimplerHacking.com;An+innovative+education+platform.;Feel+free+to+connect+with+me.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&color=%2300FF00&size=24&center=true&vCenter=true&width=900&height=60&lines=Welcome+to+my+GitHub+Profile.;I'm+emmark.tech.;Also+known+as+E.M.;I+founded+www.emmark.tech;An+innovative+education+platform.;Feel+free+to+connect+with+me.)](https://git.io/typing-svg)
 
 </div>
 
